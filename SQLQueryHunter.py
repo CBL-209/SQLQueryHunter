@@ -9,7 +9,7 @@ import sys
 from colorama import init, Fore
 
 print("──────────────────────────────────────────────")
-print("  Script name : PUTExploit ")
+print("  Script name : SQLQueryHunter ")
 print("  Script by Mohammad Radmehr")
 print("  Contact: Telegram = t.me/CBL_209")
 print("  Cybersecurity expert with a focus on web penetration testing")
