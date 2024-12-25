@@ -56,68 +56,10 @@ The HTTP requests, including headers and body data, are saved in text files and 
 - Prepare Input File: Create a text file (e.g., urls.txt) containing the list of URLs you want to analyze. Each URL should be on a new line.
 
 ## Run the Script: After installing the dependencies and preparing the input file, run the script
-- python crawl_and_extract.py
+- python SQLQueryHunter.py
 - Provide the Domain: When prompted, provide the main domain name (e.g., example.com). This will filter the results to only include links that are part of the target domain.
 
 - View Results: The script will output the database-related links to a file named output_links.txt, and store SQLMap-compatible HTTP request files in a Request folder.
 
 ## Contribution
 - Feel free to fork the repository, submit issues, and create pull requests. This project is open to improvements, bug fixes, and suggestions for new features.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
